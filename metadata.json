@@ -1,0 +1,7 @@
+{
+  "name": "Student Attendance Monitor",
+  "description": "An application to monitor student attendance by timing them in and out using a barcode/QR code scanner or manual entry.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
